@@ -1,1 +1,1 @@
-hola. esto es un testo texto de prueba. hola hola mundo. este es el mundo. se utilizaron los patrrones Paipe & Filter, Aspect
+hola. esto es un testo texto de prueba.  hola hola mundo. este es el mundo. se utilizaron los patrrones Paipe & Filter y Aspect
